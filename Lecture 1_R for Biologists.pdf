@@ -1,0 +1,22 @@
+
+#Name of the lecture: 01
+#Date:16.03.2024
+# Speaker: MD 
+
+#open the script
+#Control+shift+N
+
+#Save the script
+#Control+S
+
+#check the version of R studio
+version  #click run or Control+enter to run the code 
+
+#set working dicrectory
+setwd('C:/Users/rifat/OneDrive/Desktop') #change / with \
+
+#get working dicrectory
+getwd() 
+
+#End of the script
+
